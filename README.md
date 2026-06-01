@@ -4,4 +4,4 @@ This project provides an engine to perform Intra Prediction Mode Analysis on raw
 
 ## Prerequisites
 + Google Colab account
-+ intra_codec_analyzer.ipynb
++ intra_codec_analyzer.txt
